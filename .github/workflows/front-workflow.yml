@@ -18,7 +18,7 @@ jobs:
             
             # SSH 접속 후 작업 디렉토리로 이동
             echo "SSH 접속"
-            cd 2024-aws-kostagram/front
+            cd front
 
             # 환경 설정 파일 생성
             echo "환경 설정 파일 생성"
